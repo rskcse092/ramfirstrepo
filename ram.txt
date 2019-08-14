@@ -1,3 +1,8 @@
 #hello ram
+<<<<<<< HEAD
 this is changed on the github and pulled later to local
 changed to local 
+=======
+this is changed on the github and pulled later to local 
+changed onm git
+>>>>>>> fdf02c697fa48e6cbd95257f6f482702e1bf8971
